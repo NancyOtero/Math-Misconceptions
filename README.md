@@ -44,13 +44,13 @@ An important difference between errors and misconceptions is that diagnosing con
 
 **Large Language Models and Tracking Misconceptions**
 
-Machine learning tools such as Large Language Models (LLM) can potentially be trained to identify math misconceptions in text and pictures (Wu et al. 2021). This is one of the reasons why I wanted to compile a list of the most common algebra misconceptions and the method used to diagnose them, as a first step in generating data that can be used to train LLMs. 
+Machine learning tools such as Large Language Models (LLM) can potentially be trained to identify math misconceptions in text and pictures (Wu et al. [2021](https://arxiv.org/abs/2107.14035)). This is one of the reasons why I wanted to compile a list of the most common algebra misconceptions and the method used to diagnose them, as a first step in generating data that can be used to train LLMs. 
 
 Creating a relation between the MaEs and tests such as the NAEP is a step in identifying the misconceptions in the answers of those tests. Identifying MaEs in tests such as the NAEP would allow us to track those misconceptions and errors on existing data and follow their impact through time. The learning impact and importance of each misconception can be discovered by monitoring the effect of each misconception overtime on the existing NAEP data. Knowing which misconceptions have a higher effect helps prioritize which ones should be addressed first; e.g., knowing which misconceptions a student has can help to create targeted tutoring groups for example. 
 
 **Method and Data**
 
-Two central sources were used: Bush S (2011) and Karp K (2013). They included the analysis of 129 peer-reviewed journal manuscripts, proceedings, and papers from national or international conferences, technical reports, books, and dissertations. 
+Two central sources were used: [Bush S (2011)](https://ir.library.louisville.edu/cgi/viewcontent.cgi?article=1186&context=etd) and [Karp K (2013)](https://psycnet.apa.org/record/2013-36340-023). They included the analysis of 129 peer-reviewed journal manuscripts, proceedings, and papers from national or international conferences, technical reports, books, and dissertations. 
 
 Fifty-six different MaEs were found, a total of eighty papers were read to extract examples of the MaEs, and sixty sample questions to diagnose the MaES were transcribed. 
 
@@ -70,13 +70,13 @@ Topics:
 
 The project includes further :
  
-A list of the 56 most common algebra-related Misconceptions and Errors (MaE) in middle school arranged by topic. (tab 1) 
-An example of each MaE. (tab 3)
-An alignment between the 56 MaEs, the math Common Core (CC), and the National Assessment of Educational Progress (NAEP). (tab 3)
-List of NAEP’s topics and some sample questions.
-List of 6th to 8th-grade CC with link to an example worksheet
-Folder with all cited papers 
-A deeper explanation of the MaE.
+A [list](https://docs.google.com/spreadsheets/d/1h7BzOJMK6gTs4xMJu6gQ9M2u0iiKcltZ4DEsNETq0Os/edit?usp=share_link) of the 56 most common algebra-related Misconceptions and Errors (MaE) in middle school arranged by topic. (tab 1) 
+An example of each [MaE](https://docs.google.com/spreadsheets/d/1h7BzOJMK6gTs4xMJu6gQ9M2u0iiKcltZ4DEsNETq0Os/edit?usp=share_link). (tab 3)
+An [alignment](https://docs.google.com/spreadsheets/d/1h7BzOJMK6gTs4xMJu6gQ9M2u0iiKcltZ4DEsNETq0Os/edit?usp=sharing) between the 56 MaEs, the math Common Core (CC), and the National Assessment of Educational Progress (NAEP). (tab 3)
+[List](https://drive.google.com/drive/folders/1wXVveAxr27lKi1uoXhH3k-WgK_9UoUeq?usp=share_link) of NAEP’s topics and some sample questions.
+[List](https://drive.google.com/drive/folders/18kVnhk5xGX8MenUAAhex4klur3FC49yW?usp=share_link) of 6th to 8th-grade CC with link to an example worksheet
+[Folder](https://drive.google.com/drive/folders/1KNb72Md2RMqBhuQ8gBpGQzzAyV4kTdVY?usp=sharing) with all cited papers 
+A deeper explanation of the [MaE](https://docs.google.com/spreadsheets/d/1J4ffPamSDvxgSa3HKg-J3rXm-yQq-Kq0sGA4uMf3Xos/edit?usp=sharing).
 
 **Ongoing Work to Deepen the MaE Data Set**
 
