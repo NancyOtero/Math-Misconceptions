@@ -12,10 +12,11 @@ This article describes a work in progress on math misconceptions. This first pha
 
 The Mapping Algebra Misconceptions (MAM) project is sponsored by The Learning Agency and conducted by me, Nancy Otero. A special thanks to John Whitmer, who has supported this project from its beginning and provided valuable insights.
 
-Background 
+**Background**
 
 Research suggests that learners construct more advanced knowledge from previous understanding; learners are not a black slate when they approach instruction. Learners’ previous conceptions can be a resource for cognitive growth (Smith et al. [1993](https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Smith,%20DiSessa,%20&%20Roschelle%20(1993-4).pdf)). These conceptions (or misconceptions) are an opportunity to play, own, experience, and think about ideas as learners do in many other activities. This learner’s exercise in making sense of math also gives a window into how they construct their understanding. Making sense of and addressing learners’ misconceptions can improve math performance (Ashlock [2010](https://www.amazon.com/Robert-B-Ashlock-Patterns-Computation/dp/B008UBBX9S)) and support their ownership of doing math (Li [2019](https://link.springer.com/article/10.1186/s40594-019-0197-9)). 
 
 For these reasons I included a relation of the MaE to the Common Core, hoping it can be a tool for educators in their lesson planning. I included one example here
  
-Misconceptions for the topic Variables, expressions, and operations
+<sub>Misconceptions for the topic Variables, expressions, and operations</sub>
+
