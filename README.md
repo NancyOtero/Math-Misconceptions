@@ -39,3 +39,47 @@ One challenge to the distinctions between misconception and error is that there 
 An important difference between errors and misconceptions is that diagnosing conceptual misconceptions can be harder than computational errors in a typical classroom or by using multiple choice technology. Researchers have used interviews and paper-pencil work that show the learner’s thinking in order to discover them. This level of focus on each learner can be hard to achieve but today’s technology might be able to offer some help.   
 
 <sub>Example of misconceptions for the topic Variables, expressions, and operations</sub>
+
+![2](https://user-images.githubusercontent.com/126116934/221444192-8377afb6-87bc-4320-8cc9-8ac68d42c1fd.JPG)
+
+**Large Language Models and Tracking Misconceptions**
+
+Machine learning tools such as Large Language Models (LLM) can potentially be trained to identify math misconceptions in text and pictures (Wu et al. 2021). This is one of the reasons why I wanted to compile a list of the most common algebra misconceptions and the method used to diagnose them, as a first step in generating data that can be used to train LLMs. 
+
+Creating a relation between the MaEs and tests such as the NAEP is a step in identifying the misconceptions in the answers of those tests. Identifying MaEs in tests such as the NAEP would allow us to track those misconceptions and errors on existing data and follow their impact through time. The learning impact and importance of each misconception can be discovered by monitoring the effect of each misconception overtime on the existing NAEP data. Knowing which misconceptions have a higher effect helps prioritize which ones should be addressed first; e.g., knowing which misconceptions a student has can help to create targeted tutoring groups for example. 
+
+**Method and Data**
+
+Two central sources were used: Bush S (2011) and Karp K (2013). They included the analysis of 129 peer-reviewed journal manuscripts, proceedings, and papers from national or international conferences, technical reports, books, and dissertations. 
+
+Fifty-six different MaEs were found, a total of eighty papers were read to extract examples of the MaEs, and sixty sample questions to diagnose the MaES were transcribed. 
+
+The topics covered were based on Welder (2007), who has a broader framework and was used in both sources. Algebra-related MaEs developed during 4th or 5th grade impact middle school algebra; e.g., misunderstanding the connections among proportional relationships can later impact the understanding of slope. For that reason, 4th and 5th-grade MaEs that are algebra related are also included.
+
+Topics:
+					
+1. Number and numerical operations 
+2. Ratios and proportions
+3. The order of operations
+4. Equality
+5. Patterning
+6. Algebraic symbolism and letter usage
+7. Algebraic equations
+8. Functions
+9. Graphing
+
+The project includes further :
+ 
+A list of the 56 most common algebra-related Misconceptions and Errors (MaE) in middle school arranged by topic. (tab 1) 
+An example of each MaE. (tab 3)
+An alignment between the 56 MaEs, the math Common Core (CC), and the National Assessment of Educational Progress (NAEP). (tab 3)
+List of NAEP’s topics and some sample questions.
+List of 6th to 8th-grade CC with link to an example worksheet
+Folder with all cited papers 
+A deeper explanation of the MaE.
+
+**Ongoing Work to Deepen the MaE Data Set**
+
+Students can express a misconception in many different ways, e.g., it can be context dependent or be influenced by other misconceptions, so more than one single example per MaE might be needed to diagnose the MaE or understand its impact. Deeper explanations and more examples are already ready for some MaEs, but not all of them. MaE’s multiple examples and deeper explanations are a work in progress.
+
+Misconception on geometry, measurement, and data analysis are also a work in progress. Finally, given that researchers and educators have found ways to address and change MaEs I hope to compile and match some of their methods to the current list one day. Feel free to contact me at nancy.otero.o@gmail.com if you have any questions or feedback.
