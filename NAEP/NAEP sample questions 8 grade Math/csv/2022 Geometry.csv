@@ -1,0 +1,188 @@
+,,,,,,,,,,,,,
+,Geometry,,,,,,,,,,,,
+,Question description,Question,Solution,Score and Description,Sample Responses,Incorrect answer - Student Response,Grade,Year,Block,Type,Difficulty,Percentage,Item Performance
+,Determine the shortest path between two points,,,"Correct:
+
+Three correct selections and no incorrect selections",No student responses are available for this question.,"Incorrect:
+
+Incorrect response",8,2022,8M1,SR (Selected Response),Easy,"Correct: 73%
+Incorrect: 27%
+Omitted: 1%
+Off task: rounds to zero",
+,,,,,,,,,,,,,
+,Decompose a composite shape in more than one way,,,"Correct:
+
+Two pairs of shapes correctly placed
+
+Partial:
+
+One pair of shapes correctly placed",No student responses are available for this question.,"Incorrect:
+
+Incorrect response",8,2022,8M1,SR (Selected Response),Hard,"Correct: 21%
+Incorrect: 53%
+Partial: 25%
+Omitted: 1%
+Off task: rounds to zero",
+,,,,,,,,,,,,,
+,Identify points that complete a parallelogram in the coordinate plane,,"Sample Correct Response:
+
+Correct selections:
+
+B. (–3, 3)
+
+E. (5, –1)
+
+F. (5, 5)","Correct:
+
+Three correct selections and no incorrect selections
+
+Partial 1:
+
+Three correct selections and one incorrect selection
+
+Partial 2:
+
+Two correct selections and no incorrect selections",No student responses are available for this question.,"Incorrect:
+
+Incorrect response",8,2022,8M1,SR (Selected Response),Hard,"Correct: 7%
+Incorrect: 78%
+Partial A: 2%
+Partial B: 13%
+Omitted: rounds to zero
+Off task: rounds to zero",
+,,,,,,,,,,,,,
+,Determine the length of a diagonal of a rectangle,,,"Correct:
+
+Answer of 30
+
+Partial:
+
+Answer of 900",,"Incorrect:
+
+Incorrect response
+
+216
+
+42
+
+These incorrect responses each show an answer other than 30 or 900.",8,2022,8M1,SCR (Short Constructed Response),Hard,"Correct: 14%
+Incorrect: 83%
+Partial: 1%
+Omitted: 2%
+Off task: rounds to zero",
+,,,,,,,,,,,,,
+,Use a conjecture to determine the sum of the interior angles of polygons,,"Sample Correct Response:
+
+(a) Explanation:
+
+The dotted lines in the figure divide the pentagon into three triangles. The sum of the measures of the interior angles of each triangle is 180°. The sum of the measures of the interior angles of the pentagon is equal to the sum of the measures of the interior angles of all three triangles.
+
+Thus, the sum of measures of the interior angles of the pentagon is 3 x 180° = 540°.
+
+(b) 900 (or equivalent)
+
+(c) S = 180(n - 2) (or equivalent)",,"Extended - Student Response 1:
+
+(a) △ A = 180° △ B = 180° △ C = 180°
+180° + 180° + 180° = 540°
+The interior angle measurements of a triangle is equal to 180°, and there are three triangles inside the pentagon. 180° times 3 triangles equals 540°
+
+(b) 900°
+
+(c) (n - 2) x 180
+
+
+Extended - Student Response 2:
+
+(a) The polygon with 5 sides is equal to 540 because it was split into 3 trianglesand all triangles equal 180° and 3 x 180 = 540.
+
+(b) 900
+
+(c) 180(n - 2)
+
+These correct responses each include an acceptable explanation for part (a), a correct answer of 900 degrees for part (b), and a correct expression of 180(n – 2) or equivalent to complete the formula for part (c). Both responses include an acceptable explanation for part (a) that identifies the sum of the interior angle measures of any triangle to be 180 degrees and then multiplies this value by 3, the number of triangles in the figure.
+
+
+Satisfactory - Student Response 1:
+
+(a) The sum of the measures of the interior angles of a polygon with 5 sides is 540°, because all triangles add to the sum of 180°. So if you were to add three triangles then it would equal 540°. Since you cut three part of the polygon into three triangles them all of the triangles would equal the measurement.
+
+(b) 900
+
+(c) n x n
+
+
+Satisfactory - Student Response 2:
+
+(a) Each triangle is equal to 180°, there are 3 triangles and 180 x 3 = 540°°
+
+(b) 900°
+
+(c) 180n
+
+These responses receive a score of satisfactory. The first response includes an acceptable explanation for part (a) that identifies the sum of the interior angle measures of any triangle to be 180 degrees and then adds three of the sums together because there are three triangles in the figure, a correct answer of 900 degrees for part (b), and an incorrect expression of n x n for part (c). The second response includes an acceptable explanation for part (a) that identifies the sum of the interior angle measures of any triangle to be 180 degrees and then multiplies this value by 3, the number of triangles in the figure, a correct answer of 900 degrees for part (b), and an incorrect expression of 180n for part (c).
+
+
+Partial - Student Response 1:
+
+(a) it equals 540° because a triangle equals 180° and it has three triangles so 180 x 3 = 540°
+
+(b) 1260
+
+(c) 180 x n
+
+
+Partial - Student Response 2:
+
+(a) It measures 540 becausethe formula for interior angles in polygons 180x - 360 = y
+
+(b) 900
+
+(c) 180n - 360 = S
+
+These responses receive a score of partially correct. The first response includes an acceptable explanation for part (a) that identifies the sum of the interior angle measures of any triangle to be 180 degrees and then multiplies this value by 3, the number of triangles in the figure, an incorrect answer of 1260 degrees for part (b), and an incorrect expression of 180 x n for part (c). The second response includes an unacceptable explanation for part (a), a correct answer of 900 degrees for part (b), and a correct expression of 180n – 360 that is equivalent to 180(n – 2) to complete the formula for part (c). The explanation for part (a) in the second response is unacceptable because it does not define the variables being used.
+
+
+Minimal - Student Response:
+
+(a) The sum of the measures of the interior angles measeur up to 540° because a polygon adds up to 540 °
+
+(b) 900
+
+(c) n(180)
+
+This minimally acceptable response includes an unacceptable explanation for part (a), a correct answer of 900 degrees for part (b), and an incorrect expression of n(180) for part (c).","Incorrect - Student Response 1:
+
+(a) 540 ÷ 5 = 108
+
+108 x 5 = 540
+The polygon has five sides and each side equals to 108 and if you multiply it by 5 which is the number of sides the shape has you get 540°
+
+(b) 15
+(c) 90 ÷ 5 = 18
+
+
+Incorrect - Student Response 2:
+
+(a) there are multiple triangles inside the polygon that we can see so you have to add up the angles for all 5 corners
+
+(b) 756
+
+(c) n = 108s
+
+These responses receive a score of incorrect. The first response includes an unacceptable explanation for part (a), an incorrect answer of 15 degrees for part (b), and an incorrect equation, 90 divided by 5 = 18, for part (c). The unacceptable explanation in part (a) incorrectly identifies the number of degrees in each interior angle of the polygon, 108, as a measurement of the sides and does not use the figure to explain why the sum of the measures of the interior angles of a polygon with five sides is 540 degrees. The second response includes an unacceptable explanation for part (a), an incorrect answer of 756 degrees for part (b), and an incorrect equation, n = 108s, for part (c). The unacceptable explanation in part (a) refers to multiple triangles inside the polygon and adding the angles but does not identify the sum of the degrees of the interior angles of a triangle or the number of triangles in the figure.",8,2022,8M1,ECR (Extended Constructed Response),Hard,"Incorrect: 76%
+Minimal: 1%
+Partial: 7%
+Satisfactory: 3%
+Extended: 3%
+Omitted: 9%
+Off task: 1%",
+,,,,,,,,,,,,,
+,Use similarity to determine a dimension of a rectangle,,"The correct answer is:
+
+B. 9 cm",,,,8,2022,8M1,SR (Selected Response),Easy,"A: 12%
+B: 63% (correct)
+C: 6%
+D: 14%
+E: 4%
+Omitted: 1%",

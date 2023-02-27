@@ -1,0 +1,333 @@
+,,,,,,,,,
+,,Misconception that is not in the master sheet,,Already in the master sheet,,,,,
+,,,,,,,,,
+,"The research suggested that students struggle with the following: checking their solution (Perrenet & Wolters, 1994); symbolic notation (Nathan & Koedinger, 2000; Swafford & Langrall, 2000); reversal order error (Abouchedid & Nasser, 2000; Clement, 1982; Clement et al., 1981a; Fisher, 1988; Philipp, 1992b; Rosnick & Clement, 1980; Swan, 2000); combining (or not combining) like terms (Ashlock, 2006); inverse operations (Ashlock, 2006); and distributive property (Ashlock, 2006).",,,,,,,,
+,Page,Question,Survey,Incorrect Answer,Correct Answer,misconception,percentage,Gap,
+,"p. 2, 3",7 - 1/2 n = 18,"In 1989 the results on some linear equation-solving tasks were collected and
+analyzed for 14-year-old students (Perrenet, Mertens, Herfs, & Terwel, 1989).
+The students were asked to write down the solving procedure and the checking
+procedure. When analyzing the work of these students we were confronted with
+examples of incorrect peculiar checking behavior.
+
+This article reports the results of a study in which a group of eighth-grade students was presented with a set of linear equation-solving and checking tasks. A few weeks later some selected students were interviewed in detail on the checking behavior manifested in their notes on the previously presented paper-and-pencil task. In the same interview session a metacognition task was presented.","Student 1:
+
+Solving:
+
+7 - 1/2 = 18
+
+- 1/2 = 11
+
+n = 22
+
+
+Checking:
+
+7 - 1/2 · 22 = 18
+
+7 + 11 = 18
+
+18 = 18
+
+
+Student 2:
+
+Solving:
+
+7 - 1/2 n = 18
+
+7 - 1/2 n + 7 = 18 + 7
+
+- 1/2 n = 25
+
+1 n = 50
+
+
+Checking:
+
+7 - 25 = 18
+
+OK","correct:
+
+Solving:
+
+-n = 22
+
+n = -22 
+
+
+Checking:
+
+7 - 1/2 · -22 = 18
+
+7 - 1 · -11 = 18
+
+18 = 18
+
+OK","The student manipulates the checking procedure to get the “right” answer. 
+
+The student substitutes the value for the unknown into an already incorrectly transposed equation",,,x
+,"p 3, 9","Set A
+consists of four problems of the usual kind. The students have to solve equations
+and check their answers by substitution. 
+
+
+
+2) Solve the following equation.
+Check your solution by substitution.
+m-3=4m
+
+
+
+","The equation-solving and checking task is presented in the form of a mathematics
+paper-and-pencil task to 83 students in the eighth grade of two high schools. (M age = 14).","The Checking-with-Help Score is a score from 0 to 2. Score 0 is given wher
+the student does not detect that the given answer is incorrect, score 1 is given il
+the student detects the incorrect answer but is not able to correct the answer, ant
+score 2 is given if the correct answer is found.
+
+- Problem A2: m - 3 = 4m
+Sandra writes:
+
+solving:
+
+m = 3m 
+m = 3
+
+Checking: [nothing]
+
+Sandra: 4 times 3 makes 12; it still does not fit. 1’11 try to divide. No, that does not
+work either. ",,"Protocol Sandra. The protocol gives an example of a logical error: substitution of different values
+for the same variable. Sandra has substituted m = 3 on the right-hand side of the
+equation m - 3 = 4m and m = 15 on the left-hand side. In this way both sides
+become the same, that is equal to 12. 
+
+","Of the total 83 students, 29 students show no checking behavior at all and 10 students
+show the correct checking behavior on the paper-and-pencil task. Thirty-four
+students commit the commonly observed errors noted previously. The students
+we selected for the interview session are the 14 students who show the checking
+errors in more than one problem. 
+
+The Checking Score is a quartile score that varies from 0 to 3. Per student the
+calculation of the score is based upon those problems where a solution (correct or
+incorrect) was found or given. The reason is, that for checking, a possible
+solution is required first. The percentage of correct checking procedures out of
+possible checking procedures is then computed. For 0% to 25% the score 0 was
+given, for 25% to 50% the score 1 was given, for 50% to 75% the score 2 was
+given, and for 75% to 100% the score 3 was given. ",,
+,"p. 10, 11","Set A:
+1) Solve the following equation.
+Check your solution by substitution.
+4p+40=60",,"- Problem Al: 4p + 40 = 60
+Lester writes:
+
+solving:
+
+4p = 20
+p = 5
+
+Checking:
+
+5 + 5 + 5 + 5 = 20 
+60 - 40 = 20",,"Protocol Lester. The next protocol gives an example of a logical error.
+This error is an example of a logical error: checking a transposed equation.
+Lester does not check the given equation 4p + 40 = 60, but the transposed
+equation 4p = 60 - 40. In this case the error looks quite harmless: No damage is
+done because both equations are equivalent. However, checking an incorrectly
+transposed equation might lead to the false conclusion that the found value is
+correct. ",,,
+,p. 11,"Set A:
+3) Solve the following equation.
+Check your solution by substitution.
+2x-1=-2+5x",,"- Problem A3: 2x - 1 =  -2 + 5x
+Toby writes
+
+solving:
+
+2x - 1 = -2 + 5x
++2 +2
+4x = 5x
+x = 5
+
+Checking:
+
+4.5 = 5.4 = 20
+OK",,"Protocol Toby: These notes show a combination of two logical errors: checking a transposed
+equation and substitution of different values. Instead of checking the equation 2~
+- 1 = -2 + 5x, Toby checks the incorrectly transposed equation 4x = 5x. He
+uses two values (x = 4 and x = 5) to make it fit. But even if he had solved the
+equation 4x = 5x in the correct way and had concluded that x = 0, checking the
+transposed equation would have lead to the incorrect conclusion that x = 0 would
+be the correct solution of the original equation, 2x - 1 = 2 + 5x. 
+
+The student confuses the value of x",,,
+,p. 11 - 13,"Set A:
+4) Solve the following equation.
+Check your solution by substitution.
+7-%x=18 ",,"Problem A4: 7 - 1/2 n = 18
+Toby writes:
+
+Solving:
+
+- 1/2 n = 11
+n = 22
+
+Checking:
+
+7 - 11 = -4
+-11 = -11
+11 = 11
+22 = 22",,"These notes show a combination of two logical errors: checking a transposed
+equation and substitution of different values. Instead of checking the equation 2~
+- 1 = -2 + 5x, Toby checks the incorrectly transposed equation 4x = 5x. He
+uses two values (x = 4 and x = 5) to make it fit. But even if he had solved the
+equation 4x = 5x in the correct way and had concluded that x = 0, checking the
+transposed equation would have lead to the incorrect conclusion that x = 0 would
+be the correct solution of the original equation, 2x - 1 = 2 + 5x. 
+
+The protocol gives an example of a logical error: checking a “halved” equation.
+Only one side of the equation is used. Somehow the left-hand side of the equation is proved to be equal to itself and the solution is used as part of the proof",,,
+,"p. 3,  12","Set B consists of two problems, and is
+presented after the students have finished set A. In Set B an equation-solving
+chain and solution are given. In Bl the student is asked to check the answer by
+substitution and in B2 the student is asked to check the written substitution
+process which is given. 
+
+Set B:
+1) John has to solve an equation and check his solution substitution. Below you see what he has done already. Complete his work. 
+
+7 - 1/2 n = 18
+
+7 - 1/2 n
+
+1/2 n = 50
+
+n = 50
+
+Check: substitute 50
+",,"Problem B1: 7 - 1/2 n = 18
+
+John’s solving process:
+
+7 - 1/2 n = 18
+1/2 n = 25
+n = 50
+
+Lester’s checking:
+
+7 - 1/2 n = 18
+7 - 25 = 18
+25 - 7 = 18",,"This error is an example of an operational error: treatment of subtraction as if it
+were a commutative operation. In this protocol the error is explicit: Lester replaces 7 - 25 by 25 - 7. In other protocols sometimes the error is implicit, for
+example, 7 - 25 is replaced by 18.
+The last piece of protocol of the structural error group (protocol Toby) again
+demonstrates a logical error.
+
+
+The student did the subtraction without taking into account the order of the values",,,
+,,"2) Here you see, how Dorris did a problem.
+
+t-24 = 23t
+
+-24 = 24t 
+
+-1 = t
+
+t = -1
+
+Check: substitute -1
+
+-l -24 = 23. -1
+
+-23 = 23. -1
+
+OK
+
+Did she do all right, yes or no ? Give an explanation starting
+Yes or No.
+""Yes, she did all riaht, because....""
+""No, she did it wrong. What did she do wrong? ...""",,,,,,,
+,,,,,,,,,
+,"Simbolic notation Swafford & Langrall, 2000",,,,,,,,
+,Page,Question,Survey,Incorrect Answer,Correct Answer,misconception,percentage,Gap,
+,p. 7,"Car Wash Problem (inverse variation)
+Metro Car Sales hires washers to wash the cars in their lot. The manager knows that 36
+washers can wash all the cars in 1 hour.
+a) What if only half as many washers worked? How long would it take 18 washers to
+wash all the cars? How long for 72 washers? How long for 9 washers? How long for
+4 washers?
+b) Describe how the manager could figure out how many hours it would take to wash
+the cars for any size group of washers.
+c) Write an equation for finding the number of hours it takes to wash the cars if you know
+the number of washers. Let H represent the number of hours it takes, and let S represent the number of washers.
+d) Can you use your equation to find how long it would take 10 washers?","SELF
+
+The participants for this study were selected from a self-contained Grade 6
+classroom in an elementary school located in a midsized midwestern town. Ten
+students, five boys and five girls, were randomly selected from the middle to high
+mathematics achievement levels. Students from the low achievement group were
+not included in the study because the teacher believed that they would be less likely
+than students in the other two groups to express their thoughts verbally. ","They had difficulty computing the time required in other cases. Given that 36
+washers take I hour, 9 of the 10 students responded that 18 washers would take
+twice as long and 8 of the 10 students responded that 72 washers would take half
+as long. When the 18 was halved to 9 washers, only 5 of the 10 students doubled
+the time again.",only one student correctly answered 9 hours,"In the Car Wash Problem, which is an inverse variation situation, students could
+compute the time required to wash the cars given half or twice as many washers,
+but they had difficulty computing the time required in other cases.
+
+Students had difficulty doing the operation using other data","Number of Students Successfully Completing Each Task by Item:
+
+                                                                                       Items
+Tasks                                             Refund   Wage   Border   Concert   Fold   Car
+Computes specific cases                  10         10           9            10        10      1 
+
+Describes relation:
+Recursive                                            0           1            0            5          7        0
+Functional                                            9           8            9            2          3        5
+
+Represents symbolically                      7           6            7            2          3        5
+
+Uses equation to:
+Solve                                                    2           3            2            1a        -         2
+Substitute                                             3           0             -            1         4         1",,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Kieran and Sfard (1999),student knows the rules for simplifying equations but has no conceptual understanding as to why such rules exist. The student believed that the rules (in this case distributive property) exist simply so everyone would solve the equation in the same way -  thus creating a uniform approach,,,,,,,,
+,Page,Question,Survey,Incorrect Answer,Correct Answer,misconception,percentage,Gap,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,"Some students may understand the concepts of solving equations but are bogged down by the computation - usually with negative numbers, decimals, or fractions (Wu, 2001)",,,,,,,,
+,Page,Question,Survey,Incorrect Answer,Correct Answer,misconception,percentage,Gap,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,lacking on how and if students are checking their solutions. ,,,,"83 students, 29 did not check at all, and only 10 students were consistently correct in checking.",,,Perrenet and Wolters (1994),
+,Page,Question,Survey,Incorrect Answer,Correct Answer,misconception,percentage,Gap,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+the reversal error,Write an equation using the variables Sand P to represent the following statement: There are six times as many students as professors at  this university. Use S for the number of students and P for the number of professors.,,,,,,,,
+,"(Abouchedid & Nasser, 2000; Clement, 85 
+1982; Clement, Narode, & Rosnick, 1981; Fisher, 1988; Philipp, 1992b; Rosnick & Clement, 1980; Swan, 2000; Wollman, 1983)",,,,,,,,
+,Page,Question,Survey,Incorrect Answer,Correct Answer,misconception,percentage,Gap,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,"First students exhibit a strong proclivity towards performing a left-to-right word-order match ... thus the common error, 6S =P. Second, students often confuse the distinction between variables and labels. The symbols ""S"" and ""P"" are often interpreted as labels for ""students"" and ""professors,"" rather than as variables that represent the ""number of students"" and the ""number of professors"". (Lockhead & Mestre, 1988, pp. 129-130)",,,,,,,,
+,Page,Question,Survey,Incorrect Answer,Correct Answer,misconception,percentage,Gap,
+,,,,,,,,,
+,,,,,,,,,
+,"Wollman (1983) attributed the sources of error to working quickly, not checking the equation, failure to connect the equation to the meaning of the sentence, and the use of non-algebraic symbols",,,,,,,reveral order error,
+,Page,Question,Survey,Incorrect Answer,Correct Answer,misconception,percentage,Gap,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Linchevski and Herscovics (1996),"students had difficulty canceling (using inverse operations) within equations. For example, given the equation 12n + 30 = 13n + 19, students rewrote the equation as 12n + 30 = 12n + In + 19 and were thus able to simplify to 30 = In +19 and then solve the resulting equation.",,,,,,,,
+,Page,Question,Survey,Incorrect Answer,Correct Answer,misconception,percentage,Gap,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Vlassis's (2008),4 -x = 5.,"Vlassis found that students had three main difficulties with this equation. First, some students tried to find a number that could be substituted into the equation (e.g. guess and check) and could not arrive at an answer because the lowest number they would consider was zero (did not consider using negatives).  Second, several students who originally obtained the solution ofx =-1 became confused when they checked their solution by plugging x = -1 back into the original equation: 4 -(-1) = 5. These students believed that it was not possible to have two ""subtraction"" signs placed side by side. A final difficultly students had with this equation was that they simply omitted the negative sign. After subtracting four from both sides of the equation instead of simplifying to -x = 1 they simplified to x = 1, resulting in an incorrect solution",,,,,,,
+,-6x = 24,"students attempted to use the substitution (guess and check) method and incorrectly obtained the answer x = 4 and because of the negative sign, some students viewed -6x as -6 + x (sum) or -6-x (difference).",,,,,,,
+,,,,,,,,,
+,"Overall, students appear to have a variety of difficulties with solving and writing algebraic equations. The research suggested that students struggle with the following: checking their solution (Perrenet & Wolters, 1994); symbolic notation (Nathan & Koedinger, 2000; Swafford & Langrall, 2000); reversal order error (Abouchedid & Nasser, 2000; Clement, 1982; Clement, Lochhead et aI., 1981; Fisher, 1988; Philipp, 1992b; Rosnick & Clement, 1980; Swan, 2000); combining (or not combining) like terms (Ashlock, 2006); inverse operations (Ashlock, 2006); distributive property (Ashlock, 2006); negative numbers (Vlassis, 2008; Wu, 2001); and fractions and decimals (Wu, 2001).",,,,,,,,
